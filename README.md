@@ -1,13 +1,19 @@
 <h1 align="center">I'm Hasindu Ranasinghe</h1>
-<h3 align="center">A passionate developer</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasindur&label=Profile%20views&color=0e75b6&style=flat" alt="hasindur" /> </p>
+<p align="center">
+<a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 
 ---
 
+- 🌱 I’m currently learning **MEARN**
+
+- 💬 Ask me about **Java**
+
+- 🧑‍🎓 I’m an Undergraduate at **University of Sri Jayewardenepura**
+
 - 📫 How to reach me **rhasinduranasinghe@gmail.com**
 
-- ⚡ Fun fact **call me hasindu**
+- ⚡ Fun fact **call me hasindu***
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
