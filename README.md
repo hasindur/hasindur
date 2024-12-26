@@ -24,14 +24,23 @@
 
 - ⚡ Fun fact call me **hasindu***
 
+| ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight) | ![Hasindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasindur&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<br>
 
 <!--Languages and Tools Section-->         
-<h2 align="center"></h2>
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,vscode&perline=10"  />
 </p>
 <br />
+
+<br>
+  
+
+
+
 
 
 
