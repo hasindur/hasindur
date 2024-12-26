@@ -7,7 +7,7 @@
   <em>
     Hello, I am Hasindu Ranasinghe a undergraduate from <a href="https://usj.ac.lk/"> <b>University of Sri Jayewardenepura</b>, Sri-Lanka</a> <br>
     <b>a passionate self-learner</b>  and a who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    with <b>Computer programming</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -29,7 +29,7 @@
 <h2 align="center"></h2>
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongo,vscode&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,vscode&perline=10"  />
 </p>
 <br />
 
