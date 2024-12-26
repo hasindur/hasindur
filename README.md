@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **rhasinduranasinghe@gmail.com**
 
-- ⚡ Fun fact call me **hasindu***
+- ⚡ Fun fact call me **hasindu**
 
 ## By the way here are some of my statistics 🚀
 ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
