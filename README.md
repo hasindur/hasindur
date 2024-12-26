@@ -13,6 +13,7 @@
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 
+<!--Intro Section-->
 <br><br>
 <img align="right" width=450px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
@@ -24,6 +25,7 @@
 
 - ⚡ Fun fact call me **Hasindu**
 
+<!--statistics Section-->
 ## Here are some of my statistics 
 ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=tokyonight" alt="mystreak"/>
@@ -44,24 +46,6 @@
 </p>
 
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **rhasinduranasinghe@gmail.com**
-  
-- ⚡ Fun fact **Call me as Hasindu**
-
-</td>
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
 
 
 
-
-            
