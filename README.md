@@ -10,7 +10,7 @@
 <!--Intro Section-->
 <p align="center">
   <em>
-    Hello, I am Hasindu Ranasinghe a undergraduate from <a href="https://usj.ac.lk/"> <b>University of Sri Jayewardenepura</b>, Sri Lanka.</a> <br>
+    Hello, I am Hasindu Ranasinghe a undergraduate from <a href="[https://usj.ac.lk"> <b>University of Sri Jayewardenepura</b>, Sri Lanka.</a> <br>
     <b>a passionate self-learner</b>  and a who is <b>obsessed</b>
     with <b>Computer programming</b> and always looking to find patterns of which are hidden in the data 
   </em> 
