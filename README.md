@@ -10,7 +10,7 @@
 <!--Intro Section-->
 <p align="center">
   <em>
-    Hello, I am Hasindu Ranasinghe a undergraduate from <a href="[https://usj.ac.lk"> <b>University of Sri Jayewardenepura</b>, Sri Lanka.</a> <br>
+    Hello, I am Hasindu Ranasinghe a undergraduate from <a href="[https://usj.ac.lk"><b>University of Sri Jayewardenepura</b>.</a> <br>
     <b>a passionate self-learner</b>  and a who is <b>obsessed</b>
     with <b>Computer programming</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -58,7 +58,6 @@
 ---
 <h3 align="center">Connect With Me</h3> 
 <p align="center">
-  
 <a href="https://www.youtube.com/@hasinduranasinghe" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/hasinduranasinghe" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/hasindu.sandeep.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a> 
