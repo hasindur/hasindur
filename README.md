@@ -33,20 +33,6 @@
 
 <!--statistics Section   -->
 ---
-<h3 align="center">My Statistics</h3> 
- <table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
-</td>
-
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=tokyonight" alt="mystreak"/>
- </td>
-</tr>
-</table>
-
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -64,6 +50,7 @@
   </td>
 </tr>
 </table>
+
 
 
 <!--Languages and Tools Section-->         
@@ -92,23 +79,29 @@
 
 
 
-<h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hasindur&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hasindur&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+<!--
+
+
+<h3 align="center">My Statistics</h3> 
+ <table align="center">
+<tr border="none">
+<td width="50%" align="left">
   
-  </td>
+![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
+</td>
+
+<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=tokyonight" alt="mystreak"/>
+ </td>
 </tr>
 </table>
+
+
+
+
+-->
 
 
  
