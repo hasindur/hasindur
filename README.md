@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **rhasinduranasinghe@gmail.com**
 
-- ⚡ Fun fact call me **Hasindu**
+- ⚡ Fun fact call me **Hasindu** 
 
 <!--statistics Section   -->
 ---
@@ -70,11 +70,8 @@
 <a href="https://www.instagram.com/hasindu__r" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png"  height="50" width="50" /></a>
 </p>
 
-<!--Support Section-->  
----
-<h3 align="center">Support</h3> 
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
- 
+
+
 
 
 
@@ -84,6 +81,9 @@
 
 <!--
 
+<h3 align="center">Support</h3> 
+<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+ 
 <h3 align="center">My Statistics</h3> 
  <table align="center">
 <tr border="none">
@@ -97,6 +97,8 @@
  </td>
 </tr>
 </table>
+
+
 
 -->  
 
