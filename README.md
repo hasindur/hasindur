@@ -81,8 +81,8 @@
 
 
 
-<!--
 
+<!--
 
 <h3 align="center">My Statistics</h3> 
  <table align="center">
@@ -98,10 +98,10 @@
 </tr>
 </table>
 
+-->  
 
 
 
--->
 
 
  
