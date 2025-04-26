@@ -92,14 +92,6 @@
 ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
 </td>
 
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasindur&theme=tokyonight" alt="mystreak"/>
- </td>
-</tr>
-</table>
-
-
-
 -->  
 
 
