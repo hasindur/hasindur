@@ -53,13 +53,6 @@
 
 
 
-<!--Languages and Tools Section-->         
----
-<h3 align="center">Languages and Tools</h3> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,vscode&perline=10"  />
-</p>
-
 <!--Social Media Section-->  
 ---
 <h3 align="center">Connect With Me</h3> 
@@ -91,6 +84,14 @@
   
 ![Hasindu's github stats](https://github-readme-stats.vercel.app/api?username=hasindur&show_icons=true&theme=tokyonight)
 </td>
+
+
+<!--Languages and Tools Section--
+
+<h3 align="center">Languages and Tools</h3> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,mongo,vscode&perline=10"  />
+</p>
 
 -->  
 
