@@ -23,7 +23,7 @@
 <br><br>
 <img align="right" width=450px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
-- 🌱 I’m currently learning **MARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **Java**
 
