@@ -57,7 +57,7 @@
 ---
 <h3 align="center">Connect With Me</h3> 
 <p align="center">
-<a href="https://www.youtube.com/@hasinduranasinghe" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="50" width="50" /></a>
+<!-- <a href="https://www.youtube.com/@hasinduranasinghe" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" height="50" width="50" /></a> -->
 <a href="https://www.linkedin.com/in/hasinduranasinghe" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="50" width="50" /></a> 
 <a href="https://www.facebook.com/hasindu.sandeep.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/hasindu__r" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png"  height="50" width="50" /></a>
