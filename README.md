@@ -4,9 +4,6 @@
 <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20Angular%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<!--Profile views Section-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasindur&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
-
 <!--Intro Section-->
 <p align="center">
   <em>
